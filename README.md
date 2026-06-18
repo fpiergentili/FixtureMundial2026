@@ -6,10 +6,17 @@ Listos para importar en Google Calendar, Apple Calendar, Outlook o cualquier app
 
 ## Archivos
 
+Este repositorio contiene **dos calendarios distintos**:
+
+- **`Mundial_2026_calendario_ES.ics` — Calendario COMPLETO.** Incluye **todos** los partidos del Mundial 2026: los **104 encuentros** del torneo, desde la fase de grupos hasta la final.
+- **`Mundial_2026_Argentina_ES.ics` — Solo ARGENTINA.** Incluye **únicamente** los partidos de la selección de Argentina (Grupo J): **3 encuentros** de la fase de grupos.
+
 | Archivo | Contenido | Nº de eventos |
 |---|---|---|
-| `Mundial_2026_calendario_ES.ics` | Los 104 partidos del torneo (fase de grupos + eliminatorias) | 104 |
+| `Mundial_2026_calendario_ES.ics` | Calendario completo: los 104 partidos del torneo (fase de grupos + eliminatorias) | 104 |
 | `Mundial_2026_Argentina_ES.ics` | Solo los partidos de la selección de Argentina (Grupo J) | 3 |
+
+Importa el que prefieras según quieras seguir todo el Mundial o solo a Argentina.
 
 Cada evento incluye los equipos, la fase, la sede/estadio y, en la descripción, la hora local del estadio junto a la hora de España.
 
@@ -33,15 +40,4 @@ Cada evento incluye los equipos, la fase, la sede/estadio y, en la descripción,
 
 | Partido | Fecha y hora (España) | Sede |
 |---|---|---|
-| Argentina vs Argelia | 17 jun 2026, 03:00 | Arrowhead Stadium, Kansas City |
-| Argentina vs Austria | 22 jun 2026, 19:00 | AT&T Stadium, Arlington |
-| Jordania vs Argentina | 28 jun 2026, 04:00 | AT&T Stadium, Arlington |
-
-## Fuentes
-
-- [FIFA — Calendario oficial](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures)
-- [Wikipedia — 2026 FIFA World Cup](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup)
-
----
-
-*Datos recopilados en junio de 2026. Horarios sujetos a posibles cambios por parte de la FIFA.*
+| Argentina vs Argel
