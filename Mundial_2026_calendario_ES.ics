@@ -1,0 +1,1274 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mundial 2026//Calendario ES//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mundial 2026
+X-WR-TIMEZONE:Europe/Madrid
+X-WR-CALDESC:Calendario completo Copa del Mundo FIFA 2026 (hora de España)
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:wc2026-m001@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260611T210000
+DTEND;TZID=Europe/Madrid:20260611T230000
+SUMMARY:⚽ México vs Sudáfrica (Grupo A)
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Mundial 2026 - Partido 1 (Grupo A)\nMéxico vs Sudáfrica\nSe
+ de: Estadio Azteca, Ciudad de México\nHora local: 13:00 (UTC-6)\nHora E
+ spaña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m002@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260612T040000
+DTEND;TZID=Europe/Madrid:20260612T060000
+SUMMARY:⚽ Corea del Sur vs República Checa (Grupo A)
+LOCATION:Estadio Akron, Zapopan
+DESCRIPTION:Mundial 2026 - Partido 2 (Grupo A)\nCorea del Sur vs Repúbli
+ ca Checa\nSede: Estadio Akron, Zapopan\nHora local: 20:00 (UTC-6)\nHora 
+ España (Europe/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m003@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260612T210000
+DTEND;TZID=Europe/Madrid:20260612T230000
+SUMMARY:⚽ Canadá vs Bosnia y Herzegovina (Grupo B)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 3 (Grupo B)\nCanadá vs Bosnia y Herze
+ govina\nSede: BMO Field, Toronto\nHora local: 15:00 (UTC-4)\nHora Españ
+ a (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m004@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260613T030000
+DTEND;TZID=Europe/Madrid:20260613T050000
+SUMMARY:⚽ Estados Unidos vs Paraguay (Grupo D)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 4 (Grupo D)\nEstados Unidos vs Paragua
+ y\nSede: SoFi Stadium, Inglewood\nHora local: 18:00 (UTC-7)\nHora Españ
+ a (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m005@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260613T210000
+DTEND;TZID=Europe/Madrid:20260613T230000
+SUMMARY:⚽ Catar vs Suiza (Grupo B)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 5 (Grupo B)\nCatar vs Suiza\nSede: Lev
+ i's Stadium, Santa Clara\nHora local: 12:00 (UTC-7)\nHora España (Europ
+ e/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m006@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260614T000000
+DTEND;TZID=Europe/Madrid:20260614T020000
+SUMMARY:⚽ Brasil vs Marruecos (Grupo C)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 6 (Grupo C)\nBrasil vs Marruecos\nSede
+ : MetLife Stadium, East Rutherford\nHora local: 18:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m007@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260614T030000
+DTEND;TZID=Europe/Madrid:20260614T050000
+SUMMARY:⚽ Haití vs Escocia (Grupo C)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 7 (Grupo C)\nHaití vs Escocia\nSede: 
+ Gillette Stadium, Foxborough\nHora local: 21:00 (UTC-4)\nHora España (E
+ urope/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m008@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260614T060000
+DTEND;TZID=Europe/Madrid:20260614T080000
+SUMMARY:⚽ Australia vs Turquía (Grupo D)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 8 (Grupo D)\nAustralia vs Turquía\nSe
+ de: BC Place, Vancouver\nHora local: 21:00 (UTC-7)\nHora España (Europe
+ /Madrid): 06:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m009@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260614T190000
+DTEND;TZID=Europe/Madrid:20260614T210000
+SUMMARY:⚽ Alemania vs Curazao (Grupo E)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 9 (Grupo E)\nAlemania vs Curazao\nSede
+ : NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora España (Europe/
+ Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m010@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260614T220000
+DTEND;TZID=Europe/Madrid:20260615T000000
+SUMMARY:⚽ Países Bajos vs Japón (Grupo F)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 10 (Grupo F)\nPaíses Bajos vs Japón\
+ nSede: AT&T Stadium, Arlington\nHora local: 15:00 (UTC-5)\nHora España 
+ (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m011@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260615T010000
+DTEND;TZID=Europe/Madrid:20260615T030000
+SUMMARY:⚽ Costa de Marfil vs Ecuador (Grupo E)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 11 (Grupo E)\nCosta de Marfil vs Ecuad
+ or\nSede: Lincoln Financial Field, Philadelphia\nHora local: 19:00 (UTC-
+ 4)\nHora España (Europe/Madrid): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m012@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260615T040000
+DTEND;TZID=Europe/Madrid:20260615T060000
+SUMMARY:⚽ Suecia vs Túnez (Grupo F)
+LOCATION:Estadio BBVA, Guadalupe
+DESCRIPTION:Mundial 2026 - Partido 12 (Grupo F)\nSuecia vs Túnez\nSede: 
+ Estadio BBVA, Guadalupe\nHora local: 20:00 (UTC-6)\nHora España (Europe
+ /Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m013@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260615T180000
+DTEND;TZID=Europe/Madrid:20260615T200000
+SUMMARY:⚽ España vs Cabo Verde (Grupo H)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 13 (Grupo H)\nEspaña vs Cabo Verde\nS
+ ede: Mercedes-Benz Stadium, Atlanta\nHora local: 12:00 (UTC-4)\nHora Esp
+ aña (Europe/Madrid): 18:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m014@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260615T210000
+DTEND;TZID=Europe/Madrid:20260615T230000
+SUMMARY:⚽ Bélgica vs Egipto (Grupo G)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 14 (Grupo G)\nBélgica vs Egipto\nSede
+ : Lumen Field, Seattle\nHora local: 12:00 (UTC-7)\nHora España (Europe/
+ Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m015@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260616T000000
+DTEND;TZID=Europe/Madrid:20260616T020000
+SUMMARY:⚽ Arabia Saudí vs Uruguay (Grupo H)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 15 (Grupo H)\nArabia Saudí vs Uruguay
+ \nSede: Hard Rock Stadium, Miami Gardens\nHora local: 18:00 (UTC-4)\nHor
+ a España (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m016@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260616T030000
+DTEND;TZID=Europe/Madrid:20260616T050000
+SUMMARY:⚽ Irán vs Nueva Zelanda (Grupo G)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 16 (Grupo G)\nIrán vs Nueva Zelanda\n
+ Sede: SoFi Stadium, Inglewood\nHora local: 18:00 (UTC-7)\nHora España (
+ Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m017@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260616T210000
+DTEND;TZID=Europe/Madrid:20260616T230000
+SUMMARY:⚽ Francia vs Senegal (Grupo I)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 17 (Grupo I)\nFrancia vs Senegal\nSede
+ : MetLife Stadium, East Rutherford\nHora local: 15:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m018@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260617T000000
+DTEND;TZID=Europe/Madrid:20260617T020000
+SUMMARY:⚽ Irak vs Noruega (Grupo I)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 18 (Grupo I)\nIrak vs Noruega\nSede: G
+ illette Stadium, Foxborough\nHora local: 18:00 (UTC-4)\nHora España (Eu
+ rope/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m019@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260617T030000
+DTEND;TZID=Europe/Madrid:20260617T050000
+SUMMARY:⚽ Argentina vs Argelia (Grupo J)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 19 (Grupo J)\nArgentina vs Argelia\nSe
+ de: Arrowhead Stadium, Kansas City\nHora local: 20:00 (UTC-5)\nHora Espa
+ ña (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m020@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260617T060000
+DTEND;TZID=Europe/Madrid:20260617T080000
+SUMMARY:⚽ Austria vs Jordania (Grupo J)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 20 (Grupo J)\nAustria vs Jordania\nSed
+ e: Levi's Stadium, Santa Clara\nHora local: 21:00 (UTC-7)\nHora España 
+ (Europe/Madrid): 06:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m021@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260617T190000
+DTEND;TZID=Europe/Madrid:20260617T210000
+SUMMARY:⚽ Portugal vs RD Congo (Grupo K)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 21 (Grupo K)\nPortugal vs RD Congo\nSe
+ de: NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora España (Europ
+ e/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m022@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260617T220000
+DTEND;TZID=Europe/Madrid:20260618T000000
+SUMMARY:⚽ Inglaterra vs Croacia (Grupo L)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 22 (Grupo L)\nInglaterra vs Croacia\nS
+ ede: AT&T Stadium, Arlington\nHora local: 15:00 (UTC-5)\nHora España (E
+ urope/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m023@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260618T010000
+DTEND;TZID=Europe/Madrid:20260618T030000
+SUMMARY:⚽ Ghana vs Panamá (Grupo L)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 23 (Grupo L)\nGhana vs Panamá\nSede: 
+ BMO Field, Toronto\nHora local: 19:00 (UTC-4)\nHora España (Europe/Madr
+ id): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m024@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260618T040000
+DTEND;TZID=Europe/Madrid:20260618T060000
+SUMMARY:⚽ Uzbekistán vs Colombia (Grupo K)
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Mundial 2026 - Partido 24 (Grupo K)\nUzbekistán vs Colombia\
+ nSede: Estadio Azteca, Ciudad de México\nHora local: 20:00 (UTC-6)\nHor
+ a España (Europe/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m025@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260618T180000
+DTEND;TZID=Europe/Madrid:20260618T200000
+SUMMARY:⚽ República Checa vs Sudáfrica (Grupo A)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 25 (Grupo A)\nRepública Checa vs Sud
+ áfrica\nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 12:00 (UTC-4)
+ \nHora España (Europe/Madrid): 18:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m026@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260618T210000
+DTEND;TZID=Europe/Madrid:20260618T230000
+SUMMARY:⚽ Suiza vs Bosnia y Herzegovina (Grupo B)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 26 (Grupo B)\nSuiza vs Bosnia y Herzeg
+ ovina\nSede: SoFi Stadium, Inglewood\nHora local: 12:00 (UTC-7)\nHora Es
+ paña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m027@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260619T000000
+DTEND;TZID=Europe/Madrid:20260619T020000
+SUMMARY:⚽ Canadá vs Catar (Grupo B)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 27 (Grupo B)\nCanadá vs Catar\nSede: 
+ BC Place, Vancouver\nHora local: 15:00 (UTC-7)\nHora España (Europe/Mad
+ rid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m028@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260619T030000
+DTEND;TZID=Europe/Madrid:20260619T050000
+SUMMARY:⚽ México vs Corea del Sur (Grupo A)
+LOCATION:Estadio Akron, Zapopan
+DESCRIPTION:Mundial 2026 - Partido 28 (Grupo A)\nMéxico vs Corea del Sur
+ \nSede: Estadio Akron, Zapopan\nHora local: 19:00 (UTC-6)\nHora España 
+ (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m029@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260619T210000
+DTEND;TZID=Europe/Madrid:20260619T230000
+SUMMARY:⚽ Estados Unidos vs Australia (Grupo D)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 29 (Grupo D)\nEstados Unidos vs Austra
+ lia\nSede: Lumen Field, Seattle\nHora local: 12:00 (UTC-7)\nHora España
+  (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m030@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260620T000000
+DTEND;TZID=Europe/Madrid:20260620T020000
+SUMMARY:⚽ Escocia vs Marruecos (Grupo C)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 30 (Grupo C)\nEscocia vs Marruecos\nSe
+ de: Gillette Stadium, Foxborough\nHora local: 18:00 (UTC-4)\nHora Españ
+ a (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m031@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260620T023000
+DTEND;TZID=Europe/Madrid:20260620T043000
+SUMMARY:⚽ Brasil vs Haití (Grupo C)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 31 (Grupo C)\nBrasil vs Haití\nSede: 
+ Lincoln Financial Field, Philadelphia\nHora local: 20:30 (UTC-4)\nHora E
+ spaña (Europe/Madrid): 02:30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m032@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260620T050000
+DTEND;TZID=Europe/Madrid:20260620T070000
+SUMMARY:⚽ Turquía vs Paraguay (Grupo D)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 32 (Grupo D)\nTurquía vs Paraguay\nSe
+ de: Levi's Stadium, Santa Clara\nHora local: 20:00 (UTC-7)\nHora España
+  (Europe/Madrid): 05:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m033@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260620T190000
+DTEND;TZID=Europe/Madrid:20260620T210000
+SUMMARY:⚽ Países Bajos vs Suecia (Grupo F)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 33 (Grupo F)\nPaíses Bajos vs Suecia\
+ nSede: NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora España (Eu
+ rope/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m034@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260620T220000
+DTEND;TZID=Europe/Madrid:20260621T000000
+SUMMARY:⚽ Alemania vs Costa de Marfil (Grupo E)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 34 (Grupo E)\nAlemania vs Costa de Mar
+ fil\nSede: BMO Field, Toronto\nHora local: 16:00 (UTC-4)\nHora España (
+ Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m035@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260621T020000
+DTEND;TZID=Europe/Madrid:20260621T040000
+SUMMARY:⚽ Ecuador vs Curazao (Grupo E)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 35 (Grupo E)\nEcuador vs Curazao\nSede
+ : Arrowhead Stadium, Kansas City\nHora local: 19:00 (UTC-5)\nHora Españ
+ a (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m036@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260621T060000
+DTEND;TZID=Europe/Madrid:20260621T080000
+SUMMARY:⚽ Túnez vs Japón (Grupo F)
+LOCATION:Estadio BBVA, Guadalupe
+DESCRIPTION:Mundial 2026 - Partido 36 (Grupo F)\nTúnez vs Japón\nSede: 
+ Estadio BBVA, Guadalupe\nHora local: 22:00 (UTC-6)\nHora España (Europe
+ /Madrid): 06:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m037@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260621T180000
+DTEND;TZID=Europe/Madrid:20260621T200000
+SUMMARY:⚽ España vs Arabia Saudí (Grupo H)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 37 (Grupo H)\nEspaña vs Arabia Saudí
+ \nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 12:00 (UTC-4)\nHora 
+ España (Europe/Madrid): 18:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m038@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260621T210000
+DTEND;TZID=Europe/Madrid:20260621T230000
+SUMMARY:⚽ Bélgica vs Irán (Grupo G)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 38 (Grupo G)\nBélgica vs Irán\nSede:
+  SoFi Stadium, Inglewood\nHora local: 12:00 (UTC-7)\nHora España (Europ
+ e/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m039@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260622T000000
+DTEND;TZID=Europe/Madrid:20260622T020000
+SUMMARY:⚽ Uruguay vs Cabo Verde (Grupo H)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 39 (Grupo H)\nUruguay vs Cabo Verde\nS
+ ede: Hard Rock Stadium, Miami Gardens\nHora local: 18:00 (UTC-4)\nHora E
+ spaña (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m040@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260622T030000
+DTEND;TZID=Europe/Madrid:20260622T050000
+SUMMARY:⚽ Nueva Zelanda vs Egipto (Grupo G)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 40 (Grupo G)\nNueva Zelanda vs Egipto\
+ nSede: BC Place, Vancouver\nHora local: 18:00 (UTC-7)\nHora España (Eur
+ ope/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m041@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260622T190000
+DTEND;TZID=Europe/Madrid:20260622T210000
+SUMMARY:⚽ Argentina vs Austria (Grupo J)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 41 (Grupo J)\nArgentina vs Austria\nSe
+ de: AT&T Stadium, Arlington\nHora local: 12:00 (UTC-5)\nHora España (Eu
+ rope/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m042@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260622T230000
+DTEND;TZID=Europe/Madrid:20260623T010000
+SUMMARY:⚽ Francia vs Irak (Grupo I)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 42 (Grupo I)\nFrancia vs Irak\nSede: L
+ incoln Financial Field, Philadelphia\nHora local: 17:00 (UTC-4)\nHora Es
+ paña (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m043@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260623T020000
+DTEND;TZID=Europe/Madrid:20260623T040000
+SUMMARY:⚽ Noruega vs Senegal (Grupo I)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 43 (Grupo I)\nNoruega vs Senegal\nSede
+ : MetLife Stadium, East Rutherford\nHora local: 20:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m044@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260623T050000
+DTEND;TZID=Europe/Madrid:20260623T070000
+SUMMARY:⚽ Jordania vs Argelia (Grupo J)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 44 (Grupo J)\nJordania vs Argelia\nSed
+ e: Levi's Stadium, Santa Clara\nHora local: 20:00 (UTC-7)\nHora España 
+ (Europe/Madrid): 05:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m045@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260623T190000
+DTEND;TZID=Europe/Madrid:20260623T210000
+SUMMARY:⚽ Portugal vs Uzbekistán (Grupo K)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 45 (Grupo K)\nPortugal vs Uzbekistán\
+ nSede: NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora España (Eu
+ rope/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m046@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260623T220000
+DTEND;TZID=Europe/Madrid:20260624T000000
+SUMMARY:⚽ Inglaterra vs Ghana (Grupo L)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 46 (Grupo L)\nInglaterra vs Ghana\nSed
+ e: Gillette Stadium, Foxborough\nHora local: 16:00 (UTC-4)\nHora España
+  (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m047@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260624T010000
+DTEND;TZID=Europe/Madrid:20260624T030000
+SUMMARY:⚽ Panamá vs Croacia (Grupo L)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 47 (Grupo L)\nPanamá vs Croacia\nSede
+ : BMO Field, Toronto\nHora local: 19:00 (UTC-4)\nHora España (Europe/Ma
+ drid): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m048@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260624T040000
+DTEND;TZID=Europe/Madrid:20260624T060000
+SUMMARY:⚽ Colombia vs RD Congo (Grupo K)
+LOCATION:Estadio Akron, Zapopan
+DESCRIPTION:Mundial 2026 - Partido 48 (Grupo K)\nColombia vs RD Congo\nSe
+ de: Estadio Akron, Zapopan\nHora local: 20:00 (UTC-6)\nHora España (Eur
+ ope/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m049@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260624T210000
+DTEND;TZID=Europe/Madrid:20260624T230000
+SUMMARY:⚽ Suiza vs Canadá (Grupo B)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 49 (Grupo B)\nSuiza vs Canadá\nSede: 
+ BC Place, Vancouver\nHora local: 12:00 (UTC-7)\nHora España (Europe/Mad
+ rid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m050@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260624T210000
+DTEND;TZID=Europe/Madrid:20260624T230000
+SUMMARY:⚽ Bosnia y Herzegovina vs Catar (Grupo B)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 50 (Grupo B)\nBosnia y Herzegovina vs 
+ Catar\nSede: Lumen Field, Seattle\nHora local: 12:00 (UTC-7)\nHora Espa
+ ña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m051@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T000000
+DTEND;TZID=Europe/Madrid:20260625T020000
+SUMMARY:⚽ Escocia vs Brasil (Grupo C)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 51 (Grupo C)\nEscocia vs Brasil\nSede:
+  Hard Rock Stadium, Miami Gardens\nHora local: 18:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m052@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T000000
+DTEND;TZID=Europe/Madrid:20260625T020000
+SUMMARY:⚽ Marruecos vs Haití (Grupo C)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 52 (Grupo C)\nMarruecos vs Haití\nSed
+ e: Mercedes-Benz Stadium, Atlanta\nHora local: 18:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m053@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T030000
+DTEND;TZID=Europe/Madrid:20260625T050000
+SUMMARY:⚽ República Checa vs México (Grupo A)
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Mundial 2026 - Partido 53 (Grupo A)\nRepública Checa vs Méx
+ ico\nSede: Estadio Azteca, Ciudad de México\nHora local: 19:00 (UTC-6)\
+ nHora España (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m054@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T030000
+DTEND;TZID=Europe/Madrid:20260625T050000
+SUMMARY:⚽ Sudáfrica vs Corea del Sur (Grupo A)
+LOCATION:Estadio BBVA, Guadalupe
+DESCRIPTION:Mundial 2026 - Partido 54 (Grupo A)\nSudáfrica vs Corea del 
+ Sur\nSede: Estadio BBVA, Guadalupe\nHora local: 19:00 (UTC-6)\nHora Espa
+ ña (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m055@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T220000
+DTEND;TZID=Europe/Madrid:20260626T000000
+SUMMARY:⚽ Curazao vs Costa de Marfil (Grupo E)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 55 (Grupo E)\nCurazao vs Costa de Marf
+ il\nSede: Lincoln Financial Field, Philadelphia\nHora local: 16:00 (UTC-
+ 4)\nHora España (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m056@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260625T220000
+DTEND;TZID=Europe/Madrid:20260626T000000
+SUMMARY:⚽ Ecuador vs Alemania (Grupo E)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 56 (Grupo E)\nEcuador vs Alemania\nSed
+ e: MetLife Stadium, East Rutherford\nHora local: 16:00 (UTC-4)\nHora Esp
+ aña (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m057@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T010000
+DTEND;TZID=Europe/Madrid:20260626T030000
+SUMMARY:⚽ Japón vs Suecia (Grupo F)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 57 (Grupo F)\nJapón vs Suecia\nSede: 
+ AT&T Stadium, Arlington\nHora local: 18:00 (UTC-5)\nHora España (Europe
+ /Madrid): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m058@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T010000
+DTEND;TZID=Europe/Madrid:20260626T030000
+SUMMARY:⚽ Túnez vs Países Bajos (Grupo F)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 58 (Grupo F)\nTúnez vs Países Bajos\
+ nSede: Arrowhead Stadium, Kansas City\nHora local: 18:00 (UTC-5)\nHora E
+ spaña (Europe/Madrid): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m059@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T040000
+DTEND;TZID=Europe/Madrid:20260626T060000
+SUMMARY:⚽ Turquía vs Estados Unidos (Grupo D)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 59 (Grupo D)\nTurquía vs Estados Unid
+ os\nSede: SoFi Stadium, Inglewood\nHora local: 19:00 (UTC-7)\nHora Espa
+ ña (Europe/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m060@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T040000
+DTEND;TZID=Europe/Madrid:20260626T060000
+SUMMARY:⚽ Paraguay vs Australia (Grupo D)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 60 (Grupo D)\nParaguay vs Australia\nS
+ ede: Levi's Stadium, Santa Clara\nHora local: 19:00 (UTC-7)\nHora Españ
+ a (Europe/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m061@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T210000
+DTEND;TZID=Europe/Madrid:20260626T230000
+SUMMARY:⚽ Noruega vs Francia (Grupo I)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 61 (Grupo I)\nNoruega vs Francia\nSede
+ : Gillette Stadium, Foxborough\nHora local: 15:00 (UTC-4)\nHora España 
+ (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m062@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260626T210000
+DTEND;TZID=Europe/Madrid:20260626T230000
+SUMMARY:⚽ Senegal vs Irak (Grupo I)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 62 (Grupo I)\nSenegal vs Irak\nSede: B
+ MO Field, Toronto\nHora local: 15:00 (UTC-4)\nHora España (Europe/Madri
+ d): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m063@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T020000
+DTEND;TZID=Europe/Madrid:20260627T040000
+SUMMARY:⚽ Cabo Verde vs Arabia Saudí (Grupo H)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 63 (Grupo H)\nCabo Verde vs Arabia Sau
+ dí\nSede: NRG Stadium, Houston\nHora local: 19:00 (UTC-5)\nHora España
+  (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m064@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T020000
+DTEND;TZID=Europe/Madrid:20260627T040000
+SUMMARY:⚽ Uruguay vs España (Grupo H)
+LOCATION:Estadio Akron, Zapopan
+DESCRIPTION:Mundial 2026 - Partido 64 (Grupo H)\nUruguay vs España\nSede
+ : Estadio Akron, Zapopan\nHora local: 18:00 (UTC-6)\nHora España (Europ
+ e/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m065@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T050000
+DTEND;TZID=Europe/Madrid:20260627T070000
+SUMMARY:⚽ Egipto vs Irán (Grupo G)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 65 (Grupo G)\nEgipto vs Irán\nSede: L
+ umen Field, Seattle\nHora local: 20:00 (UTC-7)\nHora España (Europe/Mad
+ rid): 05:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m066@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T050000
+DTEND;TZID=Europe/Madrid:20260627T070000
+SUMMARY:⚽ Nueva Zelanda vs Bélgica (Grupo G)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 66 (Grupo G)\nNueva Zelanda vs Bélgic
+ a\nSede: BC Place, Vancouver\nHora local: 20:00 (UTC-7)\nHora España (E
+ urope/Madrid): 05:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m067@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T230000
+DTEND;TZID=Europe/Madrid:20260628T010000
+SUMMARY:⚽ Panamá vs Inglaterra (Grupo L)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 67 (Grupo L)\nPanamá vs Inglaterra\nS
+ ede: MetLife Stadium, East Rutherford\nHora local: 17:00 (UTC-4)\nHora E
+ spaña (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m068@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260627T230000
+DTEND;TZID=Europe/Madrid:20260628T010000
+SUMMARY:⚽ Croacia vs Ghana (Grupo L)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 68 (Grupo L)\nCroacia vs Ghana\nSede: 
+ Lincoln Financial Field, Philadelphia\nHora local: 17:00 (UTC-4)\nHora E
+ spaña (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m069@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260628T013000
+DTEND;TZID=Europe/Madrid:20260628T033000
+SUMMARY:⚽ Colombia vs Portugal (Grupo K)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 69 (Grupo K)\nColombia vs Portugal\nSe
+ de: Hard Rock Stadium, Miami Gardens\nHora local: 19:30 (UTC-4)\nHora Es
+ paña (Europe/Madrid): 01:30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m070@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260628T013000
+DTEND;TZID=Europe/Madrid:20260628T033000
+SUMMARY:⚽ RD Congo vs Uzbekistán (Grupo K)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 70 (Grupo K)\nRD Congo vs Uzbekistán\
+ nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 19:30 (UTC-4)\nHora E
+ spaña (Europe/Madrid): 01:30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m071@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260628T040000
+DTEND;TZID=Europe/Madrid:20260628T060000
+SUMMARY:⚽ Argelia vs Austria (Grupo J)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 71 (Grupo J)\nArgelia vs Austria\nSede
+ : Arrowhead Stadium, Kansas City\nHora local: 21:00 (UTC-5)\nHora Españ
+ a (Europe/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m072@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260628T040000
+DTEND;TZID=Europe/Madrid:20260628T060000
+SUMMARY:⚽ Jordania vs Argentina (Grupo J)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 72 (Grupo J)\nJordania vs Argentina\nS
+ ede: AT&T Stadium, Arlington\nHora local: 21:00 (UTC-5)\nHora España (E
+ urope/Madrid): 04:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m073@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260628T210000
+DTEND;TZID=Europe/Madrid:20260628T230000
+SUMMARY:⚽ 2º Grupo A vs 2º Grupo B (Dieciseisavos)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 73 (Dieciseisavos)\n2º Grupo A vs 2º
+  Grupo B\nSede: SoFi Stadium, Inglewood\nHora local: 12:00 (UTC-7)\nHora
+  España (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m074@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260629T223000
+DTEND;TZID=Europe/Madrid:20260630T003000
+SUMMARY:⚽ 1º Grupo E vs 3º Grupo A/B/C/D/F (Dieciseisavos)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 74 (Dieciseisavos)\n1º Grupo E vs 3º
+  Grupo A/B/C/D/F\nSede: Gillette Stadium, Foxborough\nHora local: 16:30 
+ (UTC-4)\nHora España (Europe/Madrid): 22:30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m075@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260630T030000
+DTEND;TZID=Europe/Madrid:20260630T050000
+SUMMARY:⚽ 1º Grupo F vs 2º Grupo C (Dieciseisavos)
+LOCATION:Estadio BBVA, Guadalupe
+DESCRIPTION:Mundial 2026 - Partido 75 (Dieciseisavos)\n1º Grupo F vs 2º
+  Grupo C\nSede: Estadio BBVA, Guadalupe\nHora local: 19:00 (UTC-6)\nHora
+  España (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m076@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260629T190000
+DTEND;TZID=Europe/Madrid:20260629T210000
+SUMMARY:⚽ 1º Grupo C vs 2º Grupo F (Dieciseisavos)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 76 (Dieciseisavos)\n1º Grupo C vs 2º
+  Grupo F\nSede: NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora Es
+ paña (Europe/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m077@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260630T230000
+DTEND;TZID=Europe/Madrid:20260701T010000
+SUMMARY:⚽ 1º Grupo I vs 3º Grupo C/D/F/G/H (Dieciseisavos)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 77 (Dieciseisavos)\n1º Grupo I vs 3º
+  Grupo C/D/F/G/H\nSede: MetLife Stadium, East Rutherford\nHora local: 17
+ :00 (UTC-4)\nHora España (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m078@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260630T190000
+DTEND;TZID=Europe/Madrid:20260630T210000
+SUMMARY:⚽ 2º Grupo E vs 2º Grupo I (Dieciseisavos)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 78 (Dieciseisavos)\n2º Grupo E vs 2º
+  Grupo I\nSede: AT&T Stadium, Arlington\nHora local: 12:00 (UTC-5)\nHora
+  España (Europe/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m079@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260701T030000
+DTEND;TZID=Europe/Madrid:20260701T050000
+SUMMARY:⚽ 1º Grupo A vs 3º Grupo C/E/F/H/I (Dieciseisavos)
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Mundial 2026 - Partido 79 (Dieciseisavos)\n1º Grupo A vs 3º
+  Grupo C/E/F/H/I\nSede: Estadio Azteca, Ciudad de México\nHora local: 1
+ 9:00 (UTC-6)\nHora España (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m080@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260701T180000
+DTEND;TZID=Europe/Madrid:20260701T200000
+SUMMARY:⚽ 1º Grupo L vs 3º Grupo E/H/I/J/K (Dieciseisavos)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 80 (Dieciseisavos)\n1º Grupo L vs 3º
+  Grupo E/H/I/J/K\nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 12:0
+ 0 (UTC-4)\nHora España (Europe/Madrid): 18:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m081@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260702T020000
+DTEND;TZID=Europe/Madrid:20260702T040000
+SUMMARY:⚽ 1º Grupo D vs 3º Grupo B/E/F/I/J (Dieciseisavos)
+LOCATION:Levi's Stadium, Santa Clara
+DESCRIPTION:Mundial 2026 - Partido 81 (Dieciseisavos)\n1º Grupo D vs 3º
+  Grupo B/E/F/I/J\nSede: Levi's Stadium, Santa Clara\nHora local: 17:00 (
+ UTC-7)\nHora España (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m082@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260701T220000
+DTEND;TZID=Europe/Madrid:20260702T000000
+SUMMARY:⚽ 1º Grupo G vs 3º Grupo A/E/H/I/J (Dieciseisavos)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 82 (Dieciseisavos)\n1º Grupo G vs 3º
+  Grupo A/E/H/I/J\nSede: Lumen Field, Seattle\nHora local: 13:00 (UTC-7)\
+ nHora España (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m083@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260703T010000
+DTEND;TZID=Europe/Madrid:20260703T030000
+SUMMARY:⚽ 2º Grupo K vs 2º Grupo L (Dieciseisavos)
+LOCATION:BMO Field, Toronto
+DESCRIPTION:Mundial 2026 - Partido 83 (Dieciseisavos)\n2º Grupo K vs 2º
+  Grupo L\nSede: BMO Field, Toronto\nHora local: 19:00 (UTC-4)\nHora Espa
+ ña (Europe/Madrid): 01:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m084@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260704T000000
+DTEND;TZID=Europe/Madrid:20260704T020000
+SUMMARY:⚽ 1º Grupo H vs 2º Grupo J (Dieciseisavos)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 84 (Dieciseisavos)\n1º Grupo H vs 2º
+  Grupo J\nSede: Hard Rock Stadium, Miami Gardens\nHora local: 18:00 (UTC
+ -4)\nHora España (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m085@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260703T050000
+DTEND;TZID=Europe/Madrid:20260703T070000
+SUMMARY:⚽ 1º Grupo B vs 3º Grupo E/F/G/I/J (Dieciseisavos)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 85 (Dieciseisavos)\n1º Grupo B vs 3º
+  Grupo E/F/G/I/J\nSede: BC Place, Vancouver\nHora local: 20:00 (UTC-7)\n
+ Hora España (Europe/Madrid): 05:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m086@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260704T000000
+DTEND;TZID=Europe/Madrid:20260704T020000
+SUMMARY:⚽ 1º Grupo J vs 2º Grupo H (Dieciseisavos)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 86 (Dieciseisavos)\n1º Grupo J vs 2º
+  Grupo H\nSede: Hard Rock Stadium, Miami Gardens\nHora local: 18:00 (UTC
+ -4)\nHora España (Europe/Madrid): 00:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m087@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260704T033000
+DTEND;TZID=Europe/Madrid:20260704T053000
+SUMMARY:⚽ 1º Grupo K vs 3º Grupo D/E/I/J/L (Dieciseisavos)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 87 (Dieciseisavos)\n1º Grupo K vs 3º
+  Grupo D/E/I/J/L\nSede: Arrowhead Stadium, Kansas City\nHora local: 20:3
+ 0 (UTC-5)\nHora España (Europe/Madrid): 03:30
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m088@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260703T200000
+DTEND;TZID=Europe/Madrid:20260703T220000
+SUMMARY:⚽ 2º Grupo D vs 2º Grupo G (Dieciseisavos)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 88 (Dieciseisavos)\n2º Grupo D vs 2º
+  Grupo G\nSede: AT&T Stadium, Arlington\nHora local: 13:00 (UTC-5)\nHora
+  España (Europe/Madrid): 20:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m089@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260704T230000
+DTEND;TZID=Europe/Madrid:20260705T010000
+SUMMARY:⚽ Ganador P74 vs Ganador P77 (Octavos)
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:Mundial 2026 - Partido 89 (Octavos)\nGanador P74 vs Ganador P
+ 77\nSede: Lincoln Financial Field, Philadelphia\nHora local: 17:00 (UTC-
+ 4)\nHora España (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m090@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260704T190000
+DTEND;TZID=Europe/Madrid:20260704T210000
+SUMMARY:⚽ Ganador P73 vs Ganador P75 (Octavos)
+LOCATION:NRG Stadium, Houston
+DESCRIPTION:Mundial 2026 - Partido 90 (Octavos)\nGanador P73 vs Ganador P
+ 75\nSede: NRG Stadium, Houston\nHora local: 12:00 (UTC-5)\nHora España 
+ (Europe/Madrid): 19:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m091@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260705T220000
+DTEND;TZID=Europe/Madrid:20260706T000000
+SUMMARY:⚽ Ganador P76 vs Ganador P78 (Octavos)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 91 (Octavos)\nGanador P76 vs Ganador P
+ 78\nSede: MetLife Stadium, East Rutherford\nHora local: 16:00 (UTC-4)\nH
+ ora España (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m092@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260706T020000
+DTEND;TZID=Europe/Madrid:20260706T040000
+SUMMARY:⚽ Ganador P79 vs Ganador P80 (Octavos)
+LOCATION:Estadio Azteca, Ciudad de México
+DESCRIPTION:Mundial 2026 - Partido 92 (Octavos)\nGanador P79 vs Ganador P
+ 80\nSede: Estadio Azteca, Ciudad de México\nHora local: 18:00 (UTC-6)\n
+ Hora España (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m093@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260706T210000
+DTEND;TZID=Europe/Madrid:20260706T230000
+SUMMARY:⚽ Ganador P83 vs Ganador P84 (Octavos)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 93 (Octavos)\nGanador P83 vs Ganador P
+ 84\nSede: AT&T Stadium, Arlington\nHora local: 14:00 (UTC-5)\nHora Espa
+ ña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m094@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260707T020000
+DTEND;TZID=Europe/Madrid:20260707T040000
+SUMMARY:⚽ Ganador P81 vs Ganador P82 (Octavos)
+LOCATION:Lumen Field, Seattle
+DESCRIPTION:Mundial 2026 - Partido 94 (Octavos)\nGanador P81 vs Ganador P
+ 82\nSede: Lumen Field, Seattle\nHora local: 17:00 (UTC-7)\nHora España 
+ (Europe/Madrid): 02:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m095@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260707T180000
+DTEND;TZID=Europe/Madrid:20260707T200000
+SUMMARY:⚽ Ganador P86 vs Ganador P88 (Octavos)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 95 (Octavos)\nGanador P86 vs Ganador P
+ 88\nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 12:00 (UTC-4)\nHor
+ a España (Europe/Madrid): 18:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m096@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260707T220000
+DTEND;TZID=Europe/Madrid:20260708T000000
+SUMMARY:⚽ Ganador P85 vs Ganador P87 (Octavos)
+LOCATION:BC Place, Vancouver
+DESCRIPTION:Mundial 2026 - Partido 96 (Octavos)\nGanador P85 vs Ganador P
+ 87\nSede: BC Place, Vancouver\nHora local: 13:00 (UTC-7)\nHora España (
+ Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m097@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260709T220000
+DTEND;TZID=Europe/Madrid:20260710T000000
+SUMMARY:⚽ Ganador P89 vs Ganador P90 (Cuartos de final)
+LOCATION:Gillette Stadium, Foxborough
+DESCRIPTION:Mundial 2026 - Partido 97 (Cuartos de final)\nGanador P89 vs 
+ Ganador P90\nSede: Gillette Stadium, Foxborough\nHora local: 16:00 (UTC-
+ 4)\nHora España (Europe/Madrid): 22:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m098@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260710T210000
+DTEND;TZID=Europe/Madrid:20260710T230000
+SUMMARY:⚽ Ganador P93 vs Ganador P94 (Cuartos de final)
+LOCATION:SoFi Stadium, Inglewood
+DESCRIPTION:Mundial 2026 - Partido 98 (Cuartos de final)\nGanador P93 vs 
+ Ganador P94\nSede: SoFi Stadium, Inglewood\nHora local: 12:00 (UTC-7)\nH
+ ora España (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m099@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260711T230000
+DTEND;TZID=Europe/Madrid:20260712T010000
+SUMMARY:⚽ Ganador P91 vs Ganador P92 (Cuartos de final)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 99 (Cuartos de final)\nGanador P91 vs 
+ Ganador P92\nSede: Hard Rock Stadium, Miami Gardens\nHora local: 17:00 (
+ UTC-4)\nHora España (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m100@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260712T030000
+DTEND;TZID=Europe/Madrid:20260712T050000
+SUMMARY:⚽ Ganador P95 vs Ganador P96 (Cuartos de final)
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:Mundial 2026 - Partido 100 (Cuartos de final)\nGanador P95 vs
+  Ganador P96\nSede: Arrowhead Stadium, Kansas City\nHora local: 20:00 (U
+ TC-5)\nHora España (Europe/Madrid): 03:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m101@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260714T210000
+DTEND;TZID=Europe/Madrid:20260714T230000
+SUMMARY:⚽ Ganador P97 vs Ganador P98 (Semifinal)
+LOCATION:AT&T Stadium, Arlington
+DESCRIPTION:Mundial 2026 - Partido 101 (Semifinal)\nGanador P97 vs Ganado
+ r P98\nSede: AT&T Stadium, Arlington\nHora local: 14:00 (UTC-5)\nHora Es
+ paña (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m102@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260715T210000
+DTEND;TZID=Europe/Madrid:20260715T230000
+SUMMARY:⚽ Ganador P99 vs Ganador P100 (Semifinal)
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:Mundial 2026 - Partido 102 (Semifinal)\nGanador P99 vs Ganado
+ r P100\nSede: Mercedes-Benz Stadium, Atlanta\nHora local: 15:00 (UTC-4)\
+ nHora España (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m103@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260718T230000
+DTEND;TZID=Europe/Madrid:20260719T010000
+SUMMARY:⚽ Perdedor P101 vs Perdedor P102 (Tercer puesto)
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:Mundial 2026 - Partido 103 (Tercer puesto)\nPerdedor P101 vs 
+ Perdedor P102\nSede: Hard Rock Stadium, Miami Gardens\nHora local: 17:00
+  (UTC-4)\nHora España (Europe/Madrid): 23:00
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m104@mundial2026
+DTSTAMP:20260618T113641Z
+DTSTART;TZID=Europe/Madrid:20260719T210000
+DTEND;TZID=Europe/Madrid:20260719T230000
+SUMMARY:⚽ Ganador P101 vs Ganador P102 (FINAL)
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:Mundial 2026 - Partido 104 (FINAL)\nGanador P101 vs Ganador P
+ 102\nSede: MetLife Stadium, East Rutherford\nHora local: 15:00 (UTC-4)\n
+ Hora España (Europe/Madrid): 21:00
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
